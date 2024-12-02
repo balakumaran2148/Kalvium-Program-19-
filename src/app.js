@@ -6,6 +6,8 @@ function loop(){
 // Task 5 :- create a variable of string datatype and return the string output inside the function given below
 
 function printStr(){
+    let a="ouyffy"
+    return a
   
 }
 
